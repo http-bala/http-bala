@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm balakrishna</h1>
 <h3 align="center">A passionate full stack web-developer from India</h3>
+<img align="right" width="400" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47vdfst6adsbtx7gq5qknk48543edog5vacs90d6uv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 📫 How to reach me **balakrisnakolla00014@gmail.com**
 
