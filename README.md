@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **REACT,**
 
-- 🤝 I’m looking for help with [news management systems](http://examnews.000.pe)
-
 - 💬 Ask me about **javascript,bootstrap,php**
 
 - 📫 How to reach me **balakrishnakolla00014@gmail.com**
