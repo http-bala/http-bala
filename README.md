@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=http-bala&label=Profile%20views&color=0e75b6&style=flat" alt="http-bala" /> </p>
 
-- 🔭 I’m currently working on **GeoPresence Tasker**
+- 🔭 I’m currently working on **Ecommerce website**
 
-- 🌱 I’m currently learning **REACT,**
+- 🌱 I’m currently learning **NEXT-JS,**
 
 - 💬 Ask me about **javascript,bootstrap,php**
 
